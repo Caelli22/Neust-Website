@@ -1,8 +1,9 @@
 ### University-Website
 
-This website is just for educational purposes only
+This website is just for educational purposes only and made with vanilla html, css and javascript.
 
-### How to run
-* Open index.html
-* Select raw file
-* In the link replace **githubusercontent** with **githack** 
+### Use this link for preview
+`https://raw.githack.com/Caelli22/Neust-Website/refs/heads/main/index.html`
+
+### Screenshots
+
